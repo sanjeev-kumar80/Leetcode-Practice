@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
