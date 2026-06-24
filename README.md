@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 ## Array
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
