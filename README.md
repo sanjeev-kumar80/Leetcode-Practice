@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0912-sort-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0147-insertion-sort-list) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0912-sort-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3620-network-recovery-pathways) |
@@ -179,4 +184,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
