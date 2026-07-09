@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
