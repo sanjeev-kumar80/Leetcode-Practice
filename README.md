@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
