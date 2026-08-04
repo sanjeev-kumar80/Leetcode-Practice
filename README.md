@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0875-koko-eating-bananas](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0912-sort-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
