@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Bucket Sort
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -360,4 +363,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
