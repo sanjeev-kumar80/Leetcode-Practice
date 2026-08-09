@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0052-n-queens-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Segment Tree
 |  |
@@ -389,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
