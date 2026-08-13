@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0905-sort-array-by-parity](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0147-insertion-sort-list) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
