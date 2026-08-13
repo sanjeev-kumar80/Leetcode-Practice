@@ -1,45 +1,47 @@
 class Solution {
-    public int height(TreeNode root){
-        if(root==null ) return 0;
 
-        return 1+Math.max(height(root.left),height(root.right));
-    }
+    public static void bfs(TreeNode root, List<List<Integer>> ans) {
+        int h = 0;
 
-    public void helper1(TreeNode root,List<Integer> ll,int i){
-        if (root == null)
-            return;
-        if (i== 1) {
-            ll.add(root.val);
-            return;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+
+        while (!q.isEmpty()) {
+            int size = q.size();
+            List<Integer> ll = new ArrayList<>();
+
+            for (int i = 0; i < size; i++) {
+                TreeNode temp = q.remove();
+
+                ll.add(temp.val);
+
+                if (temp.left != null)
+                    q.add(temp.left);
+
+                if (temp.right != null)
+                    q.add(temp.right);
+            }
+
+            if (h % 2 == 0) {
+                ans.add(ll);
+            } else {
+                Collections.reverse(ll);
+                ans.add(ll);
+            }
+
+            h++;
         }
-        helper1(root.left,ll, i - 1);
-        helper1(root.right,ll, i - 1);
-    }
-
-    public void helper2(TreeNode root,List<Integer> ll,int i){
-        if (root == null)
-            return;
-
-        if (i == 1) {
-            ll.add(root.val);
-            return;
-        }
-        helper2(root.right,ll, i - 1);
-        helper2(root.left,ll, i - 1);
     }
 
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> ans=new ArrayList<>();
 
-        for(int i=1;i<=height(root);i++){
-            List<Integer> ll=new ArrayList<>();
-            // it follow the 1 base indexing
-            // if the level is the even number that time preoder work 
-            // if the level is the odd number level that time postorder work
-            if(i%2==1) helper1(root,ll,i);
-            else helper2(root,ll,i);
-            ans.add(ll);
-        }
+        List<List<Integer>> ans = new ArrayList<>();
+
+        if (root == null)
+            return ans;
+
+        bfs(root, ans);
+
         return ans;
     }
 }
