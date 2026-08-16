@@ -1,13 +1,17 @@
 class Solution {
-
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
-
         List<List<Integer>> ans = new ArrayList<>();
 
-        if (root == null)
-            return ans;
+        if (root == null) return ans;
+
+        helper(root, ans);
+        return ans;
+    }
+
+    public void helper(TreeNode root, List<List<Integer>> ans) {
 
         Queue<TreeNode> q = new LinkedList<>();
+
         q.add(root);
         q.add(null);
 
@@ -36,7 +40,5 @@ class Solution {
                     q.add(temp.right);
             }
         }
-
-        return ans;
     }
 }
