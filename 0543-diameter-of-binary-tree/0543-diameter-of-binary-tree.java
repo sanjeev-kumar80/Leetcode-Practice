@@ -1,4 +1,3 @@
-
 class Solution {
 
     public int height(TreeNode root){
@@ -13,7 +12,6 @@ class Solution {
         int rightAns=diameterOfBinaryTree(root.right);
 
         int mid=height(root.left)+height(root.right);
-
         if(root.left!=null) mid++;
         if(root.right!=null) mid++;
 
