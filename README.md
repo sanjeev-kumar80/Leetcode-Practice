@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Algorithm X
 |  |
