@@ -31,6 +31,6 @@ class Solution {
 
         helper(root.left,ans,ll,targetSum,sum);
         helper(root.right,ans,ll,targetSum,sum);
-        ll.remove(ll.size()-1);
+       ll.remove(ll.size()-1);
     }
 }
