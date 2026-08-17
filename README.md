@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
