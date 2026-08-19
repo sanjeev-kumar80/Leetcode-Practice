@@ -1,44 +1,33 @@
 class Solution {
+
     public List<List<Integer>> levelOrder(TreeNode root) {
-
-        List<List<Integer>> ans = new ArrayList<>();
-
-        if (root == null)
-            return ans;
 
         HashMap<Integer, List<Integer>> map = new HashMap<>();
 
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
+        solve(root, 0, map);
 
-        int level = 0;
+        List<List<Integer>> ans = new ArrayList<>();
 
-        while (!q.isEmpty()) {
-
-            int size = q.size();
-
-            map.put(level, new ArrayList<>());
-
-            for (int i = 0; i < size; i++) {
-
-                TreeNode temp = q.poll();
-
-                map.get(level).add(temp.val);
-
-                if (temp.left != null)
-                    q.add(temp.left);
-
-                if (temp.right != null)
-                    q.add(temp.right);
-            }
-
-            level++;
-        }
-
-        for (int i = 0; i < level; i++) {
+        for (int i = 0; i < map.size(); i++) {
             ans.add(map.get(i));
         }
 
         return ans;
+    }
+
+    public void solve(TreeNode root, int level,
+                      HashMap<Integer, List<Integer>> map) {
+
+        if (root == null)
+            return;
+
+        if (!map.containsKey(level)) {
+            map.put(level, new ArrayList<>());
+        }
+
+        map.get(level).add(root.val);
+
+        solve(root.left, level + 1, map);
+        solve(root.right, level + 1, map);
     }
 }
