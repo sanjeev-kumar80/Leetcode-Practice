@@ -12,8 +12,6 @@ class Solution {
     public void helper(TreeNode root,List<List<Integer>> ans,List<Integer> ll,int targetSum,int sum){
 
         if(root==null) return ;
-
-        // Add current node
         ll.add(root.val);
         sum += root.val;
 
