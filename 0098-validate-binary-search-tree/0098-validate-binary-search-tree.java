@@ -1,17 +1,23 @@
 class Solution {
+    
     public boolean isValidBST(TreeNode root) {
-        List<Integer> ll=new ArrayList<>();
-        helper(root,ll);
-
-        for(int i=1;i<ll.size();i++){
-            if(ll.get(i-1)>=ll.get(i)) return false;
-        }
-        return true;
+        return check(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
-    public void helper(TreeNode root,List<Integer> ll){
-        if(root==null) return ;
-        helper(root.left,ll);
-        ll.add(root.val);
-        helper(root.right,ll);
+
+    public boolean check(TreeNode root, long min, long max) {
+
+        if (root == null) {
+            return true;
+        }
+
+        // Current node range ke bahar hai
+        if (root.val <= min || root.val >= max) {
+            return false;
+        }
+
+        // Left: range becomes (min, root.val)
+        // Right: range becomes (root.val, max)
+        return check(root.left, min, root.val) &&
+               check(root.right, root.val, max);
     }
 }
