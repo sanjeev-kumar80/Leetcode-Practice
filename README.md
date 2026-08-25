@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1927-sum-game) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1140-stone-game-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0392-is-subsequence](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-sort-array-by-parity](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
