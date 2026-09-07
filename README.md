@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0053-maximum-subarray) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0052-n-queens-ii) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0052-n-queens-ii) |
 ## DP on Trees
@@ -679,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
