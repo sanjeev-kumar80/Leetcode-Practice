@@ -1,69 +1,64 @@
-import java.util.*;
-
 class Solution {
 
-    List<List<String>> ans = new ArrayList<>();
-
+    List<List<String>> ll=new ArrayList<>();
     public List<List<String>> solveNQueens(int n) {
-        boolean[][] board = new boolean[n][n];
-        print(board, n, 0);
-        return ans;
+
+        boolean [][] board=new boolean[n][n];
+        sit(board,n,0);
+        return ll;
+
+        
+        
     }
 
-    public void print(boolean[][] board, int tq, int row){
-
-        if(tq == 0){
-            ans.add(Display(board));
+    public void sit(boolean [][] board ,int tq,int row){
+        if(tq==0){
+            ll.add(display(board));
             return;
         }
 
-        for(int col = 0; col < board[0].length; col++){
+        for(int col=0;col<board[0].length;col++){
 
-            if(issafe(board, col, row)){
+            if(issafe(board,row,col)){
+                board[row][col]=true;
 
-                board[row][col] = true;
-
-                print(board, tq - 1, row + 1);
-
-                board[row][col] = false; // backtracking
+                sit(board,tq-1,row+1);
+                board[row][col]=false;
             }
         }
     }
 
-    public boolean issafe(boolean[][] board, int col, int row){
+    public boolean issafe(boolean [][] board,int row,int col){
+        int r=row;
+        int c=col;
 
-        // right diagonal
-        int r = row;
-        int c = col;
-        while(r >= 0 && c < board.length){
-            if(board[r][c]) return false;
+        while(r>=0){
+            if(board[r][c]==true) return false;
             r--;
-            c++;
         }
 
-        // left diagonal
-        r = row;
-        c = col;
-        while(r >= 0 && c >= 0){
-            if(board[r][c]) return false;
+        r=row;
+        c=col;
+
+        while(r>=0 && c>=0){
+            if(board[r][c]==true) return false;
             r--;
             c--;
         }
 
-        // vertical up
-        r = row;
-        c = col;
-        while(r >= 0){
-            if(board[r][c]) return false;
-            r--;
-        }
+        r=row;
+        c=col;
 
+        while(r>=0 && c<board[0].length){
+            if(board[r][c]==true) return false;
+            r--;
+            c++;
+        }
         return true;
     }
 
-    public List<String> Display(boolean[][] board){
-
-        List<String> temp = new ArrayList<>();
+    public List<String> display(boolean [][] board){
+    List<String> temp = new ArrayList<>();
 
         for(int i = 0; i < board.length; i++){
 
