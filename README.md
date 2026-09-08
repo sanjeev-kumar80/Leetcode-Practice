@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0509-fibonacci-number) |
