@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1051-height-checker) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
