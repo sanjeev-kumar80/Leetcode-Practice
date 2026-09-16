@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0216-combination-sum-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Segment Tree
