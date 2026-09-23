@@ -1,56 +1,58 @@
 class Solution {
-    private static int nQueens(int row, char[][] chessBoard) {
-        int n= chessBoard.length;
-        //valid solution found
-        if(row==n){
-            return 1;
-        }
-        int count=0;
-        for(int col=0;col<n;col++){
-            if(canQueensbePlaced(row,col,chessBoard)){
-                chessBoard[row][col]='Q';//marked valid place
-                count+=nQueens(row+1,chessBoard);//move the next state
-                chessBoard[row][col]='i';//unmarked
-            }
-        }
+
+    static int count=0;
+    public int totalNQueens(int n) {
+         count = 0;
+        boolean [][] board=new boolean[n][n];
+        sit(board,n,0);
         return count;
     }
 
-    private static boolean canQueensbePlaced(int row, int col, char[][] chessBoard) {
-        int n = chessBoard.length;
-        int i = row - 1;
-        //check the col
-        while (i >= 0) {
-            if (chessBoard[i][col] == 'Q') return false;
-            i--;
+    public void sit(boolean [][] board ,int tq,int row){
+        if(tq==0){
+            count++;
+            return;
         }
-        //check the left diagonal
-        i = row - 1;
-        int j = col - 1;
-        while (i >= 0 && j >= 0) {
-            if (chessBoard[i][j] == 'Q') return false;
-            i--;
-            j--;
+
+        for(int col=0;col<board[0].length;col++){
+
+            if(issafe(board,row,col)){
+                board[row][col]=true;
+
+                sit(board,tq-1,row+1);
+                board[row][col]=false;
+            }
         }
-        //check the right diagonal
-        i = row - 1;
-        j = col + 1;
-        while (i >= 0 && j < n) {
-            if (chessBoard[i][j] == 'Q') return false;
-            i--;
-            j++;
+    }
+
+    public boolean issafe(boolean [][] board,int row,int col){
+        int r=row;
+        int c=col;
+
+        while(r>=0){
+            if(board[r][c]==true) return false;
+            r--;
+        }
+
+        r=row;
+        c=col;
+
+        while(r>=0 && c>=0){
+            if(board[r][c]==true) return false;
+            r--;
+            c--;
+        }
+
+        r=row;
+        c=col;
+
+        while(r>=0 && c<board[0].length){
+            if(board[r][c]==true) return false;
+            r--;
+            c++;
         }
         return true;
     }
-    public int totalNQueens(int n) {
-        
-        char[][] chessBoard=new char[n][n];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                chessBoard[i][j]='i';
-            }
-        }
-        int ans=nQueens(0,chessBoard);
-        return ans;
-    }
+
+   
 }
