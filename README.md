@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0994-rotting-oranges) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0669-trim-a-binary-search-tree) |
+| [0743-network-delay-time](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -748,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
