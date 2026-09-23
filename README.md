@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3093-longest-common-suffix-queries](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3093-longest-common-suffix-queries) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3093-longest-common-suffix-queries](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3093-longest-common-suffix-queries) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -757,4 +759,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0743-network-delay-time) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
