@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Game Theory
