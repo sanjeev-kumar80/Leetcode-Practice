@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0200-number-of-islands) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
