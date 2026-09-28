@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dancing Links
 |  |
 | ------- |
