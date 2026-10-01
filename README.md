@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0213-house-robber-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0200-number-of-islands) |
