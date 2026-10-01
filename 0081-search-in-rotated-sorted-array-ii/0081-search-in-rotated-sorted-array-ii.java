@@ -14,9 +14,14 @@ class Solution {
                 return true;
             }
 
-            if(nums[low] == nums[mid] && nums[mid] == nums[high]){
-                low = low+1;
-                high = high-1;
+            // if(nums[low] == nums[mid] && nums[mid] == nums[high]){
+            //     low = low+1;
+            //     high = high-1;
+            //     continue;
+            // }
+            // Duplicate case
+            if (nums[low] == nums[mid]) {
+                low++;
                 continue;
             }
 
