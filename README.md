@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0841-keys-and-rooms) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0669-trim-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0841-keys-and-rooms) |
