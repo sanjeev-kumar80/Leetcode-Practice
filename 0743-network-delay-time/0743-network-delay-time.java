@@ -1,62 +1,52 @@
+class Pair{
+    int node;
+    int dis;
+    Pair(int node,int dis){
+        this.node=node;
+        this.dis=dis;
+    }
+}
 
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
-
-        ArrayList<ArrayList<int[]>> adj = new ArrayList<>();
-
-        for (int i = 0; i <= n; i++) {
+        List<List<Pair>> adj=new ArrayList<>();
+        for(int i=0;i<=n;i++){
             adj.add(new ArrayList<>());
         }
 
-        for (int[] edge : times) {
-            int u = edge[0];
-            int v = edge[1];
-            int w = edge[2];
-
-            adj.get(u).add(new int[]{v, w});
+        for(int i=0;i<times.length;i++){
+            int u=times[i][0];
+            int v=times[i][1];
+            int wt=times[i][2];
+            adj.get(u).add(new Pair(v,wt));
         }
+        int[] des=new int[n+1];
+        Arrays.fill(des,Integer.MAX_VALUE);
+        PriorityQueue<Pair> q=new PriorityQueue<>((a,b)->a.dis-b.dis);
 
-        int[] dist = new int[n + 1];
-        Arrays.fill(dist, Integer.MAX_VALUE);
+        q.add(new Pair(k,0));
+        des[k]=0;
+        while(q.size()>0){
+            Pair curr=q.poll();
+            int node=curr.node;
+            int dis=curr.dis;
 
-        dist[k] = 0;
+            if(des[node]<dis) continue;
 
-        PriorityQueue<int[]> pq =
-            new PriorityQueue<>((a, b) -> a[0] - b[0]);
-
-        pq.add(new int[]{0, k});
-
-        while (!pq.isEmpty()) {
-
-            int[] curr = pq.poll();
-
-            int d = curr[0];
-            int node = curr[1];
-
-            for (int[] edge : adj.get(node)) {
-
-                int nei = edge[0];
-                int wt = edge[1];
-
-                if (d + wt < dist[nei]) {
-                    dist[nei] = d + wt;
-                    pq.add(new int[]{dist[nei], nei});
+            for(Pair ele:adj.get(node)){
+                int newdes=dis+ele.dis;
+                if(newdes<des[ele.node]){
+                    des[ele.node]=newdes;
+                    q.add(new Pair(ele.node,newdes));
                 }
             }
         }
 
-        int ans = 0;
-
-        for (int i = 1; i <= n; i++) {
-
-            if (dist[i] == Integer.MAX_VALUE) {
-                return -1;
-            }
-
-            ans = Math.max(ans, dist[i]);
+int ans=0;
+        for(int i=1;i<=n;i++){
+            if(des[i]==Integer.MAX_VALUE) return -1;
+            ans=Math.max(ans,des[i]);
         }
-
         return ans;
     }
 }
-
