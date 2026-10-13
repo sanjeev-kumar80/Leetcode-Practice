@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0213-house-robber-ii) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [1096-brace-expansion-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
