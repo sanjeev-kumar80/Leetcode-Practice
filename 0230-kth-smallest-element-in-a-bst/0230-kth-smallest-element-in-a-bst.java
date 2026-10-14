@@ -15,7 +15,7 @@ class Solution {
         // Left
         inorder(root.left, k);
 
-        // Root
+       
         count++;
 
         if (count == k) {
