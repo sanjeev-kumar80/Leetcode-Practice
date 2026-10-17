@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3546-equal-sum-grid-partition-i) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
