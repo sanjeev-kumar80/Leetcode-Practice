@@ -1,34 +1,30 @@
+
 class Solution {
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> ans=new ArrayList<>();
 
         List<Integer> ll=new ArrayList<>();
 
-        helper(root,ans,ll,targetSum,0);
-
+        helper(root,0,targetSum,ll,ans);
         return ans;
     }
-
-    public void helper(TreeNode root,List<List<Integer>> ans,List<Integer> ll,int targetSum,int sum){
-
+    private static void helper(TreeNode root,int sum,int target,List<Integer> ll,List<List<Integer>> ans){
         if(root==null) return ;
         ll.add(root.val);
-        sum += root.val;
+        sum+=root.val;
+        
 
-        // Leaf node
-        if (root.left == null && root.right == null) {
-
-            if (sum == targetSum) {
+        if((root.left==null && root.right==null)){
+            if(sum==target){
                 ans.add(new ArrayList<>(ll));
+                
             }
-
-            // Backtracking
-            ll.remove(ll.size() - 1);
+            ll.remove(ll.size()-1);
+                // sum-=root.val;
             return;
         }
-
-        helper(root.left,ans,ll,targetSum,sum);
-        helper(root.right,ans,ll,targetSum,sum);
-       ll.remove(ll.size()-1);
+        helper(root.left,sum,target,ll,ans);
+        helper(root.right,sum,target,ll,ans);
+        ll.remove(ll.size()-1);
     }
 }
