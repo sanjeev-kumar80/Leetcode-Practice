@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0233-number-of-digit-one) |
 | [0354-russian-doll-envelopes](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0233-number-of-digit-one](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0203-remove-linked-list-elements) |
+| [0233-number-of-digit-one](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2487-remove-nodes-from-linked-list) |
