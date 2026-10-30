@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1563-stone-game-v) |
+| [1631-path-with-minimum-effort](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1872-stone-game-viii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3546-equal-sum-grid-partition-i) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -603,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -677,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -926,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Trie
 |  |
 | ------- |
