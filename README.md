@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [0639-decode-ways-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0639-decode-ways-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0740-delete-and-earn](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0877-stone-game) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0740-delete-and-earn](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
