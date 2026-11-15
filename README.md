@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3546-equal-sum-grid-partition-i) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1927-sum-game) |
