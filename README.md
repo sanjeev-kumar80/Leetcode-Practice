@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0200-number-of-islands) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0354-russian-doll-envelopes](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -1022,4 +1027,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0797-all-paths-from-source-to-target) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
