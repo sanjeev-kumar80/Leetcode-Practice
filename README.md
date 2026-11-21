@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0354-russian-doll-envelopes](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0704-binary-search](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -902,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
