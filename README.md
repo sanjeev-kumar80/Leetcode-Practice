@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0856-score-of-parentheses) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1140-stone-game-ii) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -883,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
@@ -927,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Algorithm X
 |  |
 | ------- |
@@ -978,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
