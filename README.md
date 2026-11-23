@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1406-stone-game-iii) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1140-stone-game-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1510-stone-game-iv) |
@@ -1014,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0146-lru-cache) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1048,4 +1052,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0169-majority-element) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
