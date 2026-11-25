@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0169-majority-element) |
@@ -1089,4 +1092,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
