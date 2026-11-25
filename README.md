@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/2487-remove-nodes-from-linked-list) |
