@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [0639-decode-ways-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0639-decode-ways-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0695-max-area-of-island) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1107,4 +1110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0075-sort-colors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
