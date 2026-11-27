@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0233-number-of-digit-one) |
+| [0322-coin-change](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0486-predict-the-winner) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
+| [0322-coin-change](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0547-number-of-provinces) |
@@ -1113,9 +1116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sanjeev-kumar80/Leetcode-Practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
